@@ -1,3 +1,5 @@
+> :us: This README is also available in [English](README.en.md).
+
 # M41k0n - Backend Developer com conhecimento em devops e Angular
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
@@ -13,7 +15,7 @@ Desenvolvedor Backend Pleno especializado em **Java**, **Kotlin** e **Spring Fra
 
 Sou um **Desenvolvedor Backend Pleno** com mais de 5 anos de experiência em desenvolvimento de soluções robustas e escaláveis. Minha stack principal é composta por **Java**, **Kotlin** e **Spring Framework**, com forte conhecimento em arquitetura de software, microserviços e boas práticas de desenvolvimento.
 
-Como desenvolvedor backend também já atuei com **DevOps** e **Cloud Computing**, com expertise em **AWS** (EC2, RDS, DynamoDB, S3, Lambda, VPC, API Gateway, CloudWatch, SNS, SQS, EKS, ECS), **Docker**, **Kubernetes** e **Terraform**. Tenho experiência em criar pipelines CI/CD e automação de infraestrutura, sempre focando em performance, segurança e escalabilidade.
+Como desenvolvedor backend já atuei no dia a dia com **DevOps** e **Cloud Computing**, com expertise em **AWS** (EC2, RDS, DynamoDB, S3, Lambda, VPC, API Gateway, CloudWatch, SNS, SQS, EKS, ECS), **Docker**, **Kubernetes** e **Terraform**. Tenho experiência em criar pipelines CI/CD e automação de infraestrutura, sempre focando em performance, segurança e escalabilidade.
 
 Entusiasta de **Clean Code**, **DDD**, **Padrões de Projeto** e **Arquitetura Hexagonal**, busco constantemente novos desafios e oportunidades para aprender e crescer profissionalmente. Já prestei serviços para grandes empresas como **Itaú** e **Vivo**, desenvolvendo soluções críticas e escaláveis.
 
@@ -159,13 +161,6 @@ Estou disponível para oportunidades de **freelancer** e **tempo integral** em p
 ## 🤝 Vamos Trabalhar Juntos?
 
 Se você está buscando um desenvolvedor backend experiente, com sólido conhecimento em DevOps e cloud computing, entre em contato! Estou sempre aberto a novos desafios e oportunidades de criar soluções inovadoras e escaláveis.
-
-**Áreas de interesse:**
-- Desenvolvimento de microserviços e APIs RESTful
-- Arquitetura de software e modernização de sistemas legados
-- Cloud computing e otimização de infraestrutura AWS
-- DevOps, CI/CD e automação de processos
-- Consultoria técnica e mentoria
 
 ---
 
