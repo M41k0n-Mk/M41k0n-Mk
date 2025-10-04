@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M41k0n-Mk)
 
 ## 📋 Sumário
-Desenvolvedor Backend Pleno especializado em **Java**, **Kotlin** e **Spring Framework**, com sólida experiência em **DevOps** e **AWS**. Este perfil apresenta minhas skills técnicas, experiência profissional de mais de 5 anos em empresas de grande porte, projetos destacados e certificações relevantes para oportunidades de freelancer e tempo integral.
+Desenvolvedor Backend Pleno especializado em **Java**, **Kotlin** e **Spring Framework**, com sólida experiência em **DevOps** e **Angular**. Este perfil apresenta minhas skills técnicas, experiência profissional de mais de 5 anos em empresas de grande porte, projetos e certificações relevantes para oportunidades de freelancer ou tempo integral.
 
 ---
 
@@ -15,7 +15,9 @@ Desenvolvedor Backend Pleno especializado em **Java**, **Kotlin** e **Spring Fra
 
 Sou um **Desenvolvedor Backend Pleno** com mais de 5 anos de experiência em desenvolvimento de soluções robustas e escaláveis. Minha stack principal é composta por **Java**, **Kotlin** e **Spring Framework**, com forte conhecimento em arquitetura de software, microserviços e boas práticas de desenvolvimento.
 
-Como desenvolvedor backend já atuei no dia a dia com **DevOps** e **Cloud Computing**, com expertise em **AWS** (EC2, RDS, DynamoDB, S3, Lambda, VPC, API Gateway, CloudWatch, SNS, SQS, EKS, ECS), **Docker**, **Kubernetes** e **Terraform**. Tenho experiência em criar pipelines CI/CD e automação de infraestrutura, sempre focando em performance, segurança e escalabilidade.
+Como desenvolvedor backend já atuei no dia a dia com **DevOps**, **Cloud Computing**, com expertise em **AWS** (EC2, RDS, DynamoDB, S3, Lambda, VPC, API Gateway, CloudWatch, SNS, SQS, EKS, ECS), **Docker**, **Kubernetes** e **Terraform**. Tenho experiência em criar pipelines CI/CD e automação de infraestrutura, sempre focando em performance, segurança e escalabilidade.
+
+Também possuo experiência prática com **Angular**, tendo colaborado em alguns projetos frontend para integrar sistemas e desenvolver interfaces responsivas. Apesar de meu foco principal ser backend, sou capaz de atuar no desenvolvimento de aplicações Angular, contribuindo para soluções completas e alinhadas às necessidades dos usuários e do negócio.
 
 Entusiasta de **Clean Code**, **DDD**, **Padrões de Projeto** e **Arquitetura Hexagonal**, busco constantemente novos desafios e oportunidades para aprender e crescer profissionalmente. Já prestei serviços para grandes empresas como **Itaú** e **Vivo**, desenvolvendo soluções críticas e escaláveis.
 
@@ -33,7 +35,7 @@ Entusiasta de **Clean Code**, **DDD**, **Padrões de Projeto** e **Arquitetura H
 - **Frameworks:** Spring Framework, Spring Boot, Spring Cloud, Spring Security
 - **Testes:** JUnit, Mockito, Integration Tests
 - **Arquitetura:** Microserviços, Arquitetura Hexagonal, DDD, Clean Architecture
-- **Padrões de Projeto:** Design Patterns (Factory, Builder, Strategy, Observer, etc.)
+- **Padrões de Projeto:** Design Patterns (Singleton, Factory, Builder, Strategy, Observer, etc.)
 - **Boas Práticas:** Clean Code, SOLID, TDD
 
 ### Frontend
@@ -91,16 +93,14 @@ Entusiasta de **Clean Code**, **DDD**, **Padrões de Projeto** e **Arquitetura H
 
 **Principais Atividades e Conquistas:**
 - 🏆 Desenvolvimento de microserviços escaláveis para o **Banco Itaú**, processando milhares de transações diárias
+- 🐞 Detecção e correção de bugs críticos que impactavam diretamente resultados financeiros do negócio, garantindo estabilidade e confiabilidade das operações
 - 🚀 Implementação de arquitetura hexagonal e DDD em aplicações críticas para a **Vivo**
 - ⚡ Automatização de deploy de múltiplas aplicações usando **Terraform** e **Kubernetes**, reduzindo tempo de deploy
 - 🔒 Implementação de soluções de segurança e compliance na AWS (IAM, Security Groups, VPC)
-- 📊 Otimização de custos na AWS, reduzindo gastos em 40% através de auto-scaling e análise de recursos
+- 📊 Otimização de custos na AWS, reduzindo gastos através de auto-scaling e análise de recursos
 - 🏗️ Criação de pipelines CI/CD completos com testes automatizados e deploy contínuo
 - 📈 Desenvolvimento de APIs RESTful de alta performance com Spring Boot e Kotlin
 - 🔧 Migração de aplicações legadas para arquitetura de microserviços na nuvem
-
-**Tecnologias Utilizadas:**  
-Java, Kotlin, Spring Boot, MySQL, PostgreSQL, DynamoDB, Docker, Kubernetes, AWS (EC2, RDS, S3, Lambda, EKS, VPC, CloudWatch, SNS, SQS), Terraform, Git, Angular
 
 ---
 
@@ -125,7 +125,7 @@ Java, Kotlin, Spring Boot, MySQL, PostgreSQL, DynamoDB, Docker, Kubernetes, AWS 
 
 ## 📫 Como me Contratar / Contato
 
-Estou disponível para oportunidades de **freelancer** e **tempo integral** em projetos desafiadores que envolvam backend, DevOps e cloud computing.
+Estou disponível para oportunidades de **freelancer** ou **tempo integral** em projetos desafiadores que envolvam backend, DevOps e cloud computing.
 
 - 📧 **Email:** [malkon.inf@gmail.com](mailto:malkon.inf@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
