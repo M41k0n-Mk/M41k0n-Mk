@@ -5,15 +5,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M41k0n-Mk)
 
 ## 📋 Overview
-Mid-level Backend Developer specialized in **Java**, **Kotlin**, and **Spring Framework**, with solid experience in **DevOps** and **AWS**. This profile showcases my technical skills, over 5 years of professional experience in large companies, highlighted projects, and relevant certifications for freelancer and full-time opportunities.
+Mid-level Backend Developer specialized in **Java**, **Kotlin**, and **Spring Framework**, with solid experience in **DevOps**, **AWS**, and practical knowledge in **Angular**. This profile showcases my technical skills, over 5 years of professional experience in large companies, highlighted projects, and relevant certifications for freelancer and full-time opportunities.
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Mid-level Backend Developer** with 5+ years of experience building robust and scalable solutions. My main stack includes **Java**, **Kotlin**, and **Spring Framework**, with strong knowledge in software architecture, microservices, and development best practices.
+I am a **Mid-level Backend Developer** with 5+ years of experience designing and building robust, scalable solutions. My main stack includes **Java**, **Kotlin**, and **Spring Framework**, with strong expertise in software architecture, microservices, and development best practices.
 
-As a backend developer, I have hands-on experience with **DevOps** and **Cloud Computing**, specializing in **AWS** (EC2, RDS, DynamoDB, S3, Lambda, VPC, API Gateway, CloudWatch, SNS, SQS, EKS, ECS), **Docker**, **Kubernetes**, and **Terraform**. I am experienced in creating CI/CD pipelines and infrastructure automation, always focusing on performance, security, and scalability.
+As a backend developer, I have daily hands-on experience with **DevOps** and **Cloud Computing**, specializing in **AWS** (EC2, RDS, DynamoDB, S3, Lambda, VPC, API Gateway, CloudWatch, SNS, SQS, EKS, ECS), **Docker**, **Kubernetes**, and **Terraform**. I am experienced in creating CI/CD pipelines and infrastructure automation, always focusing on performance, security, and scalability.
+
+I also have practical experience with **Angular**, having collaborated on frontend projects to integrate systems and develop responsive interfaces. Although my main focus is backend, I am capable of contributing to Angular application development, providing complete solutions aligned with user and business needs.
 
 A **Clean Code**, **DDD**, **Design Patterns**, and **Hexagonal Architecture** enthusiast, I am constantly seeking new challenges and opportunities to learn and grow professionally. I have provided services for major companies such as **Itaú** and **Vivo**, developing critical and scalable solutions.
 
@@ -89,10 +91,11 @@ A **Clean Code**, **DDD**, **Design Patterns**, and **Hexagonal Architecture** e
 
 **Main Activities and Achievements:**
 - 🏆 Developed scalable microservices for **Banco Itaú**, processing thousands of daily transactions
+- 🐞 Detected and fixed critical bugs that directly impacted business financial results, ensuring operational stability and reliability
 - 🚀 Implemented hexagonal architecture and DDD in mission-critical applications for **Vivo**
 - ⚡ Automated deployment of multiple applications using **Terraform** and **Kubernetes**, reducing deployment time
 - 🔒 Implemented security and compliance solutions on AWS (IAM, Security Groups, VPC)
-- 📊 Optimized AWS costs, reducing expenses by 40% through auto-scaling and resource analysis
+- 📊 Optimized AWS costs, reducing expenses through auto-scaling and resource analysis
 - 🏗️ Built complete CI/CD pipelines with automated tests and continuous deployment
 - 📈 Developed high-performance RESTful APIs with Spring Boot and Kotlin
 - 🔧 Migrated legacy applications to microservices architecture in the cloud
